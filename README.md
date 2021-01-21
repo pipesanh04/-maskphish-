@@ -1,6 +1,5 @@
  -maskphish-2.0 is Here
-
-/home/craft/Descargas/68747470733a2f2f692e696d6775722e636f6d2f706c70336c4a752e6a7067.jpeg
+https://camo.githubusercontent.com/445119573873a331fed164cea9c36b8aa57719b235d015b3ef8ced0e3ca42280/68747470733a2f2f692e696d6775722e636f6d2f706c70336c4a752e6a7067
 
 #-MaskPhish is a simple script to hide phishing URL under a normal looking URL(google.com or facebook.com).
 
@@ -21,8 +20,7 @@ Usage of MaskPhish for attacking targets without prior mutual consent is illegal
 
 #-Screenshot
 
-/home/craft/Descargas/68747470733a2f2f692e696d6775722e636f6d2f314a73577634492e706e67.png
-
+https://camo.githubusercontent.com/122b74096307f45c3b5cab453965ee3f3860d8de2933e94ef0206408d80ed81e/68747470733a2f2f692e696d6775722e636f6d2f314a73577634492e706e67
 
 #-Detailed Article:
 https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html
